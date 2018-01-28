@@ -1,7 +1,6 @@
 {
-  "name": "admin",
-  "version": "1.0.0",
-  "main": "index.js",
+  "name": "vue-parcel-example",
+  "version": "0.0.0",
   "license": "MIT",
   "scripts": {
     "start": "node_modules/.bin/parcel index.html",
