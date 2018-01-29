@@ -7,7 +7,7 @@ I modified [JFusco's example](https://github.com/JFusco/vue-router-vuex-example)
 ``` bash
 git clone https://github.com/fri13th/vue-parcel-example.git
 cd vue-parcel-example
-yarn install
+yarn
 yarn start
 ``` 
 open browser and see http://localhost:1234
