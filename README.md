@@ -15,5 +15,5 @@ open browser and see http://localhost:1234
 # issues
 * typescript doesn't work in vue file
 * dynamic module loading and code split doesn't work
-* error occured in bundling local font face
+* error occured in bundling local font face, scss doesn't work with this patch and shows no error
 https://github.com/parcel-bundler/parcel/issues/659
