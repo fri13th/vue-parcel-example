@@ -13,7 +13,7 @@ yarn start
 open browser and see http://localhost:1234
 
 # issues
-* typescript doesn't work in vue
+* typescript doesn't work in vue file
 * dynamic module loading and code split doesn't work
 * error occured in bundling local font face
 https://github.com/parcel-bundler/parcel/issues/659
