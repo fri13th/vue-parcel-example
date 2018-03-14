@@ -10,16 +10,16 @@
   "devDependencies": {
     "babel-plugin-transform-object-rest-spread": "6.26.0",
     "babel-preset-env": "1.6.1",
-    "babel-preset-vue": "2.0.0",
+    "babel-preset-vue": "2.0.1",
     "node-sass": "4.7.2",
-    "parcel-bundler": "1.5.1",
+    "parcel-bundler": "1.6.2",
     "parcel-plugin-vue": "1.5.0",
-    "vue-hot-reload-api": "2.2.4",
-    "vue-template-compiler": "2.5.13"
+    "vue-hot-reload-api": "2.3.0",
+    "vue-template-compiler": "2.5.16"
   },
   "dependencies": {
-    "axios": "0.17.1",
-    "vue": "2.5.13",
+    "axios": "0.18.0",
+    "vue": "2.5.16",
     "vue-router": "3.0.1",
     "vuex": "3.0.1"
   }
